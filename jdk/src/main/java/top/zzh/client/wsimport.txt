@@ -1,0 +1,1 @@
+wsimport -s D:\idea\webservice\jdk\src\main\java -p top.zzh.client -keep http://127.0.0.1/webservice/hello?wsdl -encoding utf-8

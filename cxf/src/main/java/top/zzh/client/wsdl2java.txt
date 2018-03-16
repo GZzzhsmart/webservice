@@ -1,0 +1,1 @@
+wsdl2java -d D:\idea\webservice\cxf\src\main\java -p top.zzh.client -encoding utf-8 -client http://localhost:8080/webservice/hello?wsdl
